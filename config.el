@@ -77,3 +77,4 @@
 
 (use-package! ox-leanpub
   :after org)
+(setq doom-theme 'spacemacs-light)
